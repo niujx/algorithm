@@ -1,4 +1,4 @@
-package main.java.com.rock.algorithm;
+package com.rock.algorithm;
 
 public class HelloWorld {
 
